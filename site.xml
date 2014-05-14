@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/space4CloudFeature_1.0.0.qualifier.jar" id="space4CloudFeature" version="1.0.0.qualifier"/>
+   <feature url="features/space4CloudFeature_1.0.0.201405141218.jar" id="space4CloudFeature" version="1.0.0.201405141218"/>
 </site>
