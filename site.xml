@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/space4CloudFeature_1.0.0.201405141758.jar" id="space4CloudFeature" version="1.0.0.201405141758"/>
+   <feature url="features/de.uka.ipd.sdq.pcmsolver.line.feature_1.0.0.jar" id="de.uka.ipd.sdq.pcmsolver.line.feature" version="1.0.0" patch="true"/>
+   <feature url="features/it.polimi.modaclouds.space4cloud.feature_1.0.0.alpha.jar" id="it.polimi.modaclouds.space4cloud.feature" version="1.0.0.alpha"/>
 </site>
