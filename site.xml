@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/it.polimi.modaclouds.space4cloud.feature_1.0.0.201406181426.jar" id="it.polimi.modaclouds.space4cloud.feature" version="1.0.0.201406181426"/>
-   <feature url="features/it.polimi.modaclouds.palladio.patch_1.0.1.jar" id="it.polimi.modaclouds.palladio.patch" version="1.0.1"/>
+   <feature url="features/it.polimi.modaclouds.space4cloud.feature_1.0.0.201407171548.jar" id="it.polimi.modaclouds.space4cloud.feature" version="1.0.0.201407171548"/>
+   <feature url="features/it.polimi.modaclouds.palladio.patch_1.0.2.jar" id="it.polimi.modaclouds.palladio.patch" version="1.0.2"/>
 </site>
