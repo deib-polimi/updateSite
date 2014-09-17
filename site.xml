@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/de.uka.ipd.sdq.pcmsolver.feature_3.5.1.201409171007.jar" id="de.uka.ipd.sdq.pcmsolver.feature" version="3.5.1.201409171007"/>
-   <feature url="features/it.polimi.modaclouds.space4cloud.bench_1.0.0.201409151710.jar" id="it.polimi.modaclouds.space4cloud.bench" version="1.0.0.201409151710"/>
-   <feature url="features/it.polimi.modaclouds.space4cloud.feature_1.0.3.201409171007.jar" id="it.polimi.modaclouds.space4cloud.feature" version="1.0.3.201409171007"/>
+   <feature url="features/de.uka.ipd.sdq.pcmsolver.feature_3.5.1.201409171024.jar" id="de.uka.ipd.sdq.pcmsolver.feature" version="3.5.1.201409171024"/>
+   <feature url="features/it.polimi.modaclouds.space4cloud.bench_1.0.0.201409151710.jar" id="it.polimi.modaclouds.space4cloud.bench" version="1.0.0.201409151710">
+      <category name="it.polimi.modaclouds.space4cloud"/>
+   </feature>
+   <feature url="features/it.polimi.modaclouds.space4cloud.feature_1.0.3.201409171024.jar" id="it.polimi.modaclouds.space4cloud.feature" version="1.0.3.201409171024">
+      <category name="it.polimi.modaclouds.space4cloud"/>
+   </feature>
+   <category-def name="it.polimi.modaclouds.space4cloud" label="Space4Cloud">
+      <description>
+         The plugins composing the Space4Cloud environment
+      </description>
+   </category-def>
 </site>
